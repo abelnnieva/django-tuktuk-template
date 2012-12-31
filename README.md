@@ -5,7 +5,7 @@ This is a project template for Django 1.4+, which introduces the new project tem
 * [Tuktuk](http://tuktuk.tapquo.com) framework static files
 * Customized project layout
 * Customized `settings.py` file
-* Sample `base.html
+* Sample `base.html`
 * A default "home page" view
 
 
