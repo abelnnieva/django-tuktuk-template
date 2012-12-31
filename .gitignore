@@ -1,0 +1,7 @@
+# Compiled source
+*.pyc
+
+# OS and Editor files
+.DS_Store
+*.sublime-project
+*.sublime-workspace
